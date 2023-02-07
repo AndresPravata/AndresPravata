@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Andrés+Pravata.+Welcome!)]
 
-![Snake animation](https://github.com/AndresPravata/frontgithub)
+![Snake animation](https://github.com/AndresPravata/AndresPravata/blob/main/github_snake.svg)
 
 <div align="center">  
 
