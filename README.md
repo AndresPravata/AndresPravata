@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
  </a>  
- 
+
  ## Sobre Mi
 
 *Una pandemia mundial que nos cambió la vida, y yo no fui la excepción, incursioné de manera autodidacta en el mundo IT, cambié Ingeniería Industrial por Ingeniería en Sistemas. Y así empezó mi viaje en este hermoso mundo el cual me trasmite mucho entusiasmo y me empuja a conocer cada día un poco más.*
@@ -32,4 +32,4 @@ Si quieres ver los proyectos los puedes encontrar en mi [Portfolio](https://port
 *A global pandemic that changed our lives, and I was no exception, I ventured self-taught into the IT world, I changed Industrial Engineering for Systems Engineering. And so began my journey in this beautiful world which gives me a lot of enthusiasm and pushes me to learn a little more every day.*
 
 Now I am currently doing projects in which I have used technologies such as **HMTL**, **CSS** and **JavaScript**, I also use libraries such as **Bootstrap**. I learned to use **Angular** in conjunction with **TypeScript**. I also know the use of **NodeJS**, **MySQL**. I learned Algorithms and Data structures with **Python** at the University. And Java for the BackEnd in Argentina Program.
-If you want to see the projects you can find them in my [Portfolio](https://portfolio-andrespravata.netlify.app/
+If you want to see the projects you can find them in my [Portfolio](https://portfolio-andrespravata.netlify.app/)
